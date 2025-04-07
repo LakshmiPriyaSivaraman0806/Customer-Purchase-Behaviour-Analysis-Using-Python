@@ -6,7 +6,7 @@ Customer Purchase Behaviour Analysis focuses on understanding how customers inte
 - **Tool Used:** Jupyter Notebook
 - **Libraries Used:** Pandas, Numpy, Seaborn, Matplotlib.pyplot, klib
 - **Dataset:** The dataset contains e-commerce transaction data, customer data, demographics, location, discount details, gross and net amount. It can be used to analyze customer engagement and predict buying behavior of customers..
-> LINK: <a href=> Transaction Dataset</a>
+> LINK: <a href=https://github.com/LakshmiPriyaSivaraman0806/Customer-Purchase-Behaviour-Analysis-Using-Python/blob/main/Ecommerce_dataset.csv> Transaction Dataset</a>
 
 - **Objective:** The project aims to identify key trends in customer purchasing behavior through transactional data analysis, enabling data-driven decision-making. It supports strategic business planning by uncovering customer needs, identifying target customer segments, optimizing marketing efforts, and enhancing overall sales performance. The analysis also focuses on improving customer satisfaction and encouraging repeat purchases.
 
@@ -27,17 +27,31 @@ Customer Purchase Behaviour Analysis focuses on understanding how customers inte
 - Which discounts are most effective in boosting sales?
 
 ## Analysis using Python:
-> LINK: <a href=> Jupyter Notebook - Analysis Report</a>
+> LINK: <a href=https://github.com/LakshmiPriyaSivaraman0806/Customer-Purchase-Behaviour-Analysis-Using-Python/blob/main/Customer%20Purchase%20Behaviour%20Analysis-%20Jupyter%20Notebook.pdf> Jupyter Notebook - Analysis Report</a>
 
-## Recommendation:
-- Strengthen inventory and marketing strategies in top-performing cities like Mumbai, Bangalore, and Delhi, as they contribute significantly to the company’s revenue.
-- Avoid offering universal or blanket discounts across all products, as the analysis revealed that discounts do not strongly correlate with increased net revenue. Instead, implement personalized discounting strategies based on user behavior, purchase history, and product performance.
-- Promote high-converting payment options such as PhonePe and credit cards, as they are the most preferred among customers. Collaborate with these payment providers to offer cashbacks, rewards, or EMI options during high-traffic sales periods to increase conversion rates.
-- Address the needs of under-18 and senior customer segments (above 60 years) who prefer Cash on Delivery or Net Banking due to trust and tech usability concerns. Improve trust signals, simplify the checkout process, and offer educational content or customer support to guide these users.
-- Leverage the popularity of electronics, beauty, and fashion categories, which show strong purchase and revenue patterns. Introduce bundle offers, cross-category promotions (e.g., mobile + accessories or skincare combo packs), and highlight bestsellers on the homepage to drive more sales.
-- Reduce refund rates by improving product descriptions, visuals, and size guides, especially in high-return categories. Implement a feedback loop where customer return reasons are logged and used to refine product listings and recommendations.
-- Design loyalty or reward programs targeting high-value age groups (20–40 years) who contribute the most to transaction volume and revenue. Offer birthday discounts, point-based systems, and early access to sales to retain these customers.
-- Segment marketing campaigns by age group and discount behavior, as age impacts both product preferences and payment choices. Younger users are more likely to respond to discounts and mobile-friendly campaigns, while older users may prefer reliability and service quality.
-- Use the stable transaction volume (850–950 transactions/month) to improve forecasting models for stock, staffing, and logistics planning. This can help reduce operational costs and ensure smoother peak-season operations.
-- Introduce seasonal and location-specific campaigns that consider customer geography and shopping patterns. For example, promote festive wear and electronics in metro cities during Diwali or summer essentials during April–May, based on seasonal buying trends.
+## 📌 Recommendations
 
+- **Strengthen inventory and marketing strategies** in top-performing cities such as **Mumbai, Bangalore, and Delhi**, as these regions significantly contribute to overall revenue.
+
+- **Boost engagement in low-performing regions like Srinagar, Varanasi, and Dehradun** by launching targeted promotions, localized marketing efforts, enhancing delivery services, and tailoring product offerings based on regional preferences.
+
+- **Avoid blanket discounts across all products**, as analysis indicates a weak correlation between discounts and increased net revenue. Instead, **adopt personalized discounting strategies** driven by user behavior, purchase history, and product performance.
+
+- **Promote preferred payment methods like PhonePe and credit cards**, which show high conversion rates. Collaborate with these payment providers to offer cashbacks, EMI options, and exclusive rewards during peak sales periods.
+
+- **Address the unique needs of under-18 and senior customers (60+ years)** who tend to favor **Cash on Delivery and Net Banking** due to trust or tech usability concerns. Improve trust signals, simplify the checkout process, and provide educational support to enhance their shopping experience.
+
+- **Capitalize on high-performing product categories** such as **electronics, beauty, and fashion** by introducing bundle offers, cross-category promotions (e.g., mobile + accessories or skincare kits), and prominently showcasing bestsellers on the homepage.
+
+- **Reduce return and refund rates** by improving product listings focus on clearer descriptions, accurate size guides, and high-quality visuals. Implement a feedback mechanism to track return reasons and refine product recommendations accordingly.
+
+- **Introduce loyalty or reward programs** targeting high-value age groups **(20–40 years)**, who account for a major share of transactions and revenue. Incentivize them with birthday discounts, early sale access, and a point-based reward system.
+
+- **Segment marketing campaigns by age group and discount sensitivity**, as younger customers are more responsive to discounts and mobile-optimized content, while older customers prioritize reliability and service quality.
+
+- **Leverage consistent transaction volumes (850–950 per month)** to fine-tune forecasting models for inventory, staffing, and logistics. This ensures efficient resource planning and cost control during peak periods.
+
+## Conclusion:
+This project presents a thorough analysis of a retail transaction dataset using data exploration, statistical summaries, and visual storytelling to uncover actionable insights. Key patterns—such as the revenue dominance of metro cities (Mumbai, Bangalore, Delhi), limited effectiveness of blanket discounts, and strong buying behavior among the 25–45 age group highlight clear business opportunities. Through segmentation by age, location, product category, and payment preference, the analysis offers a deep understanding of customer behavior.
+
+The resulting strategic recommendations—personalized offers, localized campaigns, loyalty programs, and enhanced product listings—empower businesses to refine marketing, improve inventory planning, and boost customer satisfaction. Overall, this project demonstrates how data-driven decision-making can drive profitability, strengthen customer engagement, and support long-term, scalable business growth.
